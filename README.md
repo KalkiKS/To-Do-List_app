@@ -20,7 +20,9 @@ It allows you to manage tasks with categories, due dates, and completion status.
    cd to_do_list_app
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Run the app
+4. Run the app
+   ```bash
    python to_do_list.py
