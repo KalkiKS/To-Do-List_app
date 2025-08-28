@@ -16,8 +16,8 @@ It allows you to manage tasks with categories, due dates, and completion status.
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/to_do_list_app.git
-   cd to_do_list_app
+   git clone https://github.com/KalkiKS/To-Do-List_app.git
+   cd To_Do_List-app
 
 2. Install dependencies:
    ```bash
